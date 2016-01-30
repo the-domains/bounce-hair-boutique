@@ -2,6 +2,7 @@ name: 'Bounce Hair Boutique '
 favicon: null
 layout_spectrum: 0.9025683109648526
 typography_spectrum: 0.5398625175002962
+title: '#getbouncy'
 cta:
   domain: null
   bucket: null
