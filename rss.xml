@@ -2,14 +2,25 @@
     <channel>
         <title><![CDATA[#getbouncy]]></title>
         <description><![CDATA[#getbouncy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bounce-hair-boutique/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 20:36:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 20:36:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bounce-hair-boutique/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Stylist ]]></title>
+            <description><![CDATA[<article><h1>Our Stylist </h1><p>​​Jennessa Couture is an accomplished hair stylist with professional training experience at some of the most elite salons across the United States including Culver City California, Chicago and New York City. Her professional career is grounded in a dual passion for design and helping clients love their hair. 
+To strengthen her curly portfolio, Jennessa earned the Deva Inspired stylist Status in 2009, DevaCurl Advanced status in 2011 and most recently DevaCurl Certified Curl Specialist, the highest level of curly hair training available.
+She describes these training experiences and the introduction Curly Girl method and way of life as a “breath of fresh air” and an affirmation to why she “loves the industry so much.” 
+In 2011, Jennessa joined the DevaCurl team as a DevaCurl Regional Guest Artist. 
+</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f39a8a88-9d1a-4dfb-a5fc-3ed5be43085c.JPG"></article>]]></description>
+            <link>https://thegrid.ai/bounce-hair-boutique/our-stylist/index.html</link>
+            <guid isPermaLink="false">099f279e-6a11-414e-8ca3-726f05cd4cdd</guid>
+            <pubDate>Sat, 30 Jan 2016 20:34:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About our Services ]]></title>
             <description><![CDATA[<article><h1>About our Services </h1><p>The DevaCut </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2c50a4973171c06f51e0f258439836868aa4798.jpg"></article>]]></description>
-            <link>undefinedabout-our-services/index.html</link>
+            <link>https://thegrid.ai/bounce-hair-boutique/about-our-services/index.html</link>
             <guid isPermaLink="false">383310af-cfca-44bb-86db-0f5241c22e4f</guid>
             <pubDate>Sat, 30 Jan 2016 20:34:51 GMT</pubDate>
         </item>
