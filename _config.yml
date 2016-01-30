@@ -1,7 +1,7 @@
 name: 'Bounce Hair Boutique '
 favicon: null
-layout_spectrum: 0.9025683109648526
-typography_spectrum: 0.5398625175002962
+layout_spectrum: 1
+typography_spectrum: 0.31443
 title: '#getbouncy'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.03955247928388417
-  lightness: 0.861957392655313
-  saturation: 0.49163787392899394
-  rhythmicContrast: 0.6660443008877337
+    - '#ffffff'
+    - '#0a0a0a'
+    - '#6b625d'
+    - '#8b827b'
+    - '#b7aca4'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
