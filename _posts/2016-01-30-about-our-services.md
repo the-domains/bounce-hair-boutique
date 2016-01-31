@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Here's what you experience at Bounce Hair Boutique "
-datePublished: '2016-01-31T02:05:38.919Z'
-dateModified: '2016-01-31T02:05:14.020Z'
+datePublished: '2016-01-31T02:12:31.970Z'
+dateModified: '2016-01-31T02:12:28.036Z'
 title: 'About our Services '
 author: []
 sourcePath: _posts/2016-01-30-about-our-services.md
@@ -22,7 +22,7 @@ url: about-our-services/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91f53ea8-ea82-459c-b3a1-d98ca2b160bb.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9a72435a98d8c5c996a6f585127c8ed19eebd54.jpg)
 
 The DevaCut 
 
