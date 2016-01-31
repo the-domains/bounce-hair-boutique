@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Here's what you experience at Bounce Hair Boutique "
-datePublished: '2016-01-31T02:12:31.859Z'
+datePublished: '2016-01-31T02:12:31.882Z'
 dateModified: '2016-01-31T02:12:28.036Z'
 title: 'About our Services '
 author: []
