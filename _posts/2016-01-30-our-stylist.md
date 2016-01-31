@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Meet the team '
-datePublished: '2016-01-31T02:11:43.771Z'
+datePublished: '2016-01-31T02:11:43.981Z'
 dateModified: '2016-01-31T02:11:41.208Z'
 title: 'Our Stylist '
 author: []
