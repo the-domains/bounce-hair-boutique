@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Meet the team '
-datePublished: '2016-01-31T02:07:15.002Z'
-dateModified: '2016-01-31T02:07:03.589Z'
+datePublished: '2016-01-31T02:10:16.747Z'
+dateModified: '2016-01-31T02:10:13.957Z'
 title: 'Our Stylist '
 author: []
 sourcePath: _posts/2016-01-30-our-stylist.md
